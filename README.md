@@ -4,7 +4,7 @@
 
 > **Contact:** polina.kovyazina.pro@gmail.com
 > 
-> **LinkedIn:** [polina-kovyazina](https://www.linkedin.com/in/harroldalmussa](https://www.linkedin.com/in/polina-kovyazina/))
+> **LinkedIn:** [polina-kovyazina](https://www.linkedin.com/in/polina-kovyazina/)
 > 
 > **Location:** Paris, Île-de-France, France (working remotely as well)
 
