@@ -1,16 +1,16 @@
-## Hi there 👋
+# Polina Kovyazina
 
-<!--
-**polly-kov/polly-kov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Cybersecurity Analyst
 
-Here are some ideas to get you started:
+> **Contact:** polina.kovyazina.pro@gmail.com
+> 
+> **LinkedIn:** [polinakovyazina]([https://www.linkedin.com/in/harroldalmussa](https://www.linkedin.com/in/polina-kovyazina/))
+> 
+> **Location:** Paris, Île-de-France, France (working remotely as well)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+**Bachelor of Science (BS), Business Administration and Management**
+* University of Manitoba | 2018 – 2021
